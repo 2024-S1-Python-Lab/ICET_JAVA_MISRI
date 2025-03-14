@@ -67,5 +67,6 @@ System.out.println("Second Matrix:");
 Matrix2.displayMatrix ( );
 Matrix resultMatrix = Matrix.addMatrices (Matrix1, Matrix2);
 System. out.println ("Matrix after addition:");
-resultMatrix.displayMatrix ( );}
+resultMatrix.displayMatrix ( );
+}
 }
