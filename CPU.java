@@ -49,5 +49,6 @@ CPU.RAM ramobj= new CPU.RAM(8,"Intel");
 cpuobj.display();
 probj.display();
 ramobj.display();
+  
 }
 }
