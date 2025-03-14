@@ -32,5 +32,6 @@ System.out.println ("2nd complex number: " + ip2.real + "+i" + ip2.imaginary);
 Complex result = new Complex (0, 0);
 result = result.addComplex (ip1, ip2);
 System.out.println ("Sum: " + result.real + "+i" + result.imaginary);
+
 }
 }
