@@ -14,6 +14,7 @@ public void read (Scanner sc)
 System.out.println("Enter the elements of the matrix:");
 for (int i = 0; i < rows; i++)
 {
+  
 for (int j = 0; j < columns; j++)
 mat[i][j] = sc.nextInt();
 }
