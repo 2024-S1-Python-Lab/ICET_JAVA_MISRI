@@ -15,6 +15,7 @@ System.out.println("Product Code : "+pcode);
 System.out.println("Product Name : "+pname);
 System.out.println("Product Price : "+pprice);
 }
+  
 }
 class MainProduct1
 {
