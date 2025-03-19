@@ -21,6 +21,7 @@ found = true;
 break;
 }
 }
+  
 if (found)
 System.out.println("The word '" + searchWord + "' is found in the array.");
 else
