@@ -17,6 +17,7 @@ eSalary=sc.nextDouble();
 }
 void display()
 {
+  
 System.out.println("Empolyee No : "+eNo);
 System.out.println("Name : "+eName);
 System.out.println("Salary Amount: "+eSalary+"\n");
