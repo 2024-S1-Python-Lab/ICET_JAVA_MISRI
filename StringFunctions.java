@@ -15,4 +15,5 @@ System.out.println("Character at 2nd & 4th position is "+ str1.charAt(1) +","+st
 System.out.println("The sub string using start index only is "+str1.substring(5));
 System.out.println("The sub string using start index only is "+str1.substring(0,4));
 }
+  
 }
