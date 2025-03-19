@@ -23,7 +23,7 @@ if (array[i] == searchElement)
 found = true;
 System.out.println("Element found at index " + i);
 break;
-}
+
 }
 if (!found)
 System.out.println("Element not found in the array.");
