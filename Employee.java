@@ -46,6 +46,7 @@ if(arr[i].eNo==num2)
 System.out.println("Employee details");
 arr[i].display();
 }
+  
 }
 }
 }
