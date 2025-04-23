@@ -14,4 +14,5 @@ public class DrawShapes extends Applet
         g.setColor(Color.BLUE);    // Set color   
         g.drawOval(250, 50, 100, 100); //draw a circle (Oval with equal width & height) 
     } 
+ 
 } 
